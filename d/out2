@@ -1,0 +1,54 @@
+
+Reflection.MemberInfo
+Full assembly name :
+ mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089.
+Qualified assembly name:
+ System.IO.BinaryReader, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089.
+
+There are 46 documentable members in System.IO.BinaryReader.
+get_BaseStream Method
+Close Method
+Dispose Method
+Dispose Method
+PeekChar Method
+Read Method
+ReadBoolean Method
+ReadByte Method
+ReadSByte Method
+ReadChar Method
+ReadInt16 Method
+ReadUInt16 Method
+ReadInt32 Method
+ReadUInt32 Method
+ReadInt64 Method
+ReadUInt64 Method
+ReadSingle Method
+ReadDouble Method
+ReadDecimal Method
+ReadString Method
+Read Method
+ReadChars Method
+Read Method
+ReadBytes Method
+FillBuffer Method
+Read7BitEncodedInt Method
+InternalReadChars Method
+InternalReadOneChar Method
+.ctor Constructor
+.ctor Constructor
+.ctor Constructor
+.cctor Constructor
+BaseStream Property
+m_stream Field
+m_buffer Field
+m_decoder Field
+m_charBytes Field
+m_singleChar Field
+m_charBuffer Field
+m_maxCharsSize Field
+m_2BytesPerChar Field
+m_isMemoryStream Field
+m_leaveOpen Field
+s_zeroByteArray Field
+s_zeroCharArray Field
+MaxCharBytesSize Field
