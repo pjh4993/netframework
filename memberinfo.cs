@@ -4,7 +4,13 @@ using System.Reflection;
 class Module1{
     public static void Main(){
         Int32 indent = 0;
-        Assembly a = Assembly.LoadFrom(@".\aossdk.dll");
+        Assembly a = Assembly.LoadFrom(@".\test.exe");
+        try{
+            a = Assembly.LoadFrom(@"C:\OpenAPI\KHOpenAPI.ocx");
+        }catch(Exception e){
+            Console.WriteLine(e);
+            return;
+        }
         Display(indent, "Assembly identity={0}",a.FullName);
         Display(indent+1, "Codebase={0}",a.CodeBase);
         Display(indent, "Referenced assemblies:");
