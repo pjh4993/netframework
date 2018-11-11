@@ -27,8 +27,8 @@ namespace Typelibconvert
                     
                 TypeLibConverter converter = new TypeLibConverter();
                 ConversionEventHandler eventHandler = new ConversionEventHandler();
-                AssemblyBuilder asm = converter.ConvertTypeLibToAssembly( typeLib, "ExplorerLib.dll", 0, eventHandler, null, null, null, null );	
-                asm.Save( "ExplorerLib.dll" );
+                AssemblyBuilder asm = converter.ConvertTypeLibToAssembly( typeLib, "KHOpenAPI.dll", 0, eventHandler, null, null, null, null );	
+                asm.Save( "KHOpenAPI.dll" );
             }
     }
     public class ConversionEventHandler : ITypeLibImporterNotifySink
