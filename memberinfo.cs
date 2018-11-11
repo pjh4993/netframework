@@ -6,7 +6,7 @@ class Module1{
         Int32 indent = 0;
         Assembly a = Assembly.LoadFrom(@".\test.exe");
         try{
-            a = Assembly.LoadFrom(@"C:\OpenAPI\KHOpenAPI.ocx");
+            a = Assembly.LoadFrom(@"C:\OpenAPI\KHOpenAPI.ocxt");
         }catch(Exception e){
             Console.WriteLine(e);
             return;
