@@ -1,0 +1,11 @@
+C:\Users\sysadmin\Documents\project\netframework\usingDllMethod\bin\Debug\netcoreapp2.1\usingDllMethod.deps.json
+C:\Users\sysadmin\Documents\project\netframework\usingDllMethod\bin\Debug\netcoreapp2.1\usingDllMethod.runtimeconfig.json
+C:\Users\sysadmin\Documents\project\netframework\usingDllMethod\bin\Debug\netcoreapp2.1\usingDllMethod.runtimeconfig.dev.json
+C:\Users\sysadmin\Documents\project\netframework\usingDllMethod\bin\Debug\netcoreapp2.1\usingDllMethod.dll
+C:\Users\sysadmin\Documents\project\netframework\usingDllMethod\bin\Debug\netcoreapp2.1\usingDllMethod.pdb
+C:\Users\sysadmin\Documents\project\netframework\usingDllMethod\obj\Debug\netcoreapp2.1\usingDllMethod.csprojAssemblyReference.cache
+C:\Users\sysadmin\Documents\project\netframework\usingDllMethod\obj\Debug\netcoreapp2.1\usingDllMethod.csproj.CoreCompileInputs.cache
+C:\Users\sysadmin\Documents\project\netframework\usingDllMethod\obj\Debug\netcoreapp2.1\usingDllMethod.AssemblyInfoInputs.cache
+C:\Users\sysadmin\Documents\project\netframework\usingDllMethod\obj\Debug\netcoreapp2.1\usingDllMethod.AssemblyInfo.cs
+C:\Users\sysadmin\Documents\project\netframework\usingDllMethod\obj\Debug\netcoreapp2.1\usingDllMethod.dll
+C:\Users\sysadmin\Documents\project\netframework\usingDllMethod\obj\Debug\netcoreapp2.1\usingDllMethod.pdb
